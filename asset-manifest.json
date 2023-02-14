@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/myportfolio/static/css/main.ff0f2dd5.css",
+    "main.js": "/myportfolio/static/js/main.7ae26302.js",
+    "static/media/hero.png": "/myportfolio/static/media/hero.10b1d51e191cdb225173.png",
+    "static/media/reactParallax.jpg": "/myportfolio/static/media/reactParallax.6f0d02a0def925fc9d7f.jpg",
+    "static/media/reactWeather.jpg": "/myportfolio/static/media/reactWeather.a1988356c4f5a620716e.jpg",
+    "static/media/graphql.png": "/myportfolio/static/media/graphql.fc6b9451733c620ceb86.png",
+    "static/media/reactSmooth.jpg": "/myportfolio/static/media/reactSmooth.a2ffb0a8d6db6a651603.jpg",
+    "static/media/arrayDestruct.jpg": "/myportfolio/static/media/arrayDestruct.84671dfd109d4de76bae.jpg",
+    "static/media/navbar.jpg": "/myportfolio/static/media/navbar.7ce4ddd4bd6a2fa48cd5.jpg",
+    "static/media/installNode.jpg": "/myportfolio/static/media/installNode.16b2cb6d162eaa8d6fb5.jpg",
+    "static/media/usestate.jpg": "/myportfolio/static/media/usestate.153ef3529fa4deb47617.jpg",
+    "static/media/react.png": "/myportfolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/node.png": "/myportfolio/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/nextjs.png": "/myportfolio/static/media/nextjs.48ddc8121a0fcb543d64.png",
+    "static/media/github.png": "/myportfolio/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/myportfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/myportfolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/myportfolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/myportfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/myportfolio/index.html",
+    "main.ff0f2dd5.css.map": "/myportfolio/static/css/main.ff0f2dd5.css.map",
+    "main.7ae26302.js.map": "/myportfolio/static/js/main.7ae26302.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff0f2dd5.css",
+    "static/js/main.7ae26302.js"
+  ]
+}
